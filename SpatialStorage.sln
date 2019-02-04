@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpatialStorage.Repository",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpatialStorage.Services", "SpatialStorage.Services\SpatialStorage.Services.csproj", "{A6200669-EEDE-4BD8-94FE-FBBD299EBE88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialStorage.Services.Test", "SpatialStorage.Services.Test\SpatialStorage.Services.Test.csproj", "{91EFC108-B3C4-4D77-BC0E-18306F9E5E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpatialStorage.Services.Test", "SpatialStorage.Services.Test\SpatialStorage.Services.Test.csproj", "{91EFC108-B3C4-4D77-BC0E-18306F9E5E95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{473CE201-8673-4ACA-9C9A-9C083E6873EB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

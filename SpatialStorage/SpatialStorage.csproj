@@ -5,6 +5,7 @@
     <Configurations>Debug;Release</Configurations>
     <ApplicationIcon />
     <OutputType>Exe</OutputType>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <StartupObject>SpatialStorage.Program</StartupObject>
   </PropertyGroup>
 
